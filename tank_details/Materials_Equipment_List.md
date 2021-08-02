@@ -1,6 +1,8 @@
 # Materials & Equipment List #
 
+Pentair Aquatic Habitats, Glass Tank System Model GH-C2517060-A, Power: 115 VAC
 Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/). 
+
 
 ### Aquaria Equipment ###
 
@@ -19,6 +21,12 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 | New Union Ball Valve | AQ-3629-005 1/2" true union ball valve, with threaded parts, IWAKI |
 | Pressure Gauge | AQ10543 Pressure gauge 0-30psi liquid filled, 1/4" NPT rear mount, 2.5" Face |
 | Step Stool | [3-Step Steel Lightweight Step Stool Ladder](https://www.homedepot.com/p/Gorilla-Ladders-3-Step-Steel-Lightweight-Step-Stool-Ladder-225-lbs-Load-Capacity-Type-II-Duty-Rating-GLS-3-2/310833692) |
+| Tubing | Santoprene, 1/4"OD,BLUE | 
+| Tubing | PVC,BLU,80A,3/8"IDX1/2"OD | 
+| Bio-Media | Bio-Media,SWX,BF150A |
+| Activated Carbon | [From IWAKI](https://shop.iwakiaquatic.com/Item.aspx?ItemID=46939) | 
+| Sodium Bicorbonate | [From Iwaki](https://shop.iwakiaquatic.com/Item.aspx?ItemID=46668) |
+
 
 ### Water Quality & Maintenence ###
 
@@ -30,11 +38,12 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 | Basic water quality Test Kit | [API Aquarium Test Kit](https://www.amazon.com/API-SALTWATER-550-Test-Saltwater-Aquarium/dp/B001EUE808/ref=sr_1_8?dchild=1&keywords=api+water+quality+test+kit&qid=1627915313&sr=8-8) |
 | N & Bacteria | [Rapid Cycle Aquarium Cycle Kit 4 oz (100 gallon system)](https://www.iwakiaquatic.com/)
 | Salt | [Reef Crystals](https://shop.iwakiaquatic.com/Item.aspx?ItemID=45621) | 
-| Dissolved Oxygen YSI | [] |
+| Dissolved Oxygen YSI | [YSI 607132 Pro20i Dissolved Oxygen & Temperature Meter](https://www.amazon.com/YSI-607132-Dissolved-Temperature-Polarographic/dp/B074X5TVQ6/ref=sr_1_24?dchild=1&keywords=Dissolved+Oxygen+Meter&qid=1622214323&refinements=p_89%3AYSI&rnid=2528832011&s=industrial&sr=1-24) |
+| Dissolved Oxygen Probe | [YSI-60520 Pro Series 4 Meter Cable Assembly for Dissolved Oxygen/Temperature Meter](https://www.amazon.com/YSI-Assembly-Dissolved-Oxygen-Temperature/dp/B008OJ5FZ4/ref=pd_day0_2/144-2881845-8152411?pd_rd_w=Iyj1y&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=KT6EE8ET5MVPAHHA65Q4&pd_rd_r=34f2f122-81bb-4607-b3b5-896e17884152&pd_rd_wg=POabj&pd_rd_i=B008OJ5FZ4&psc=1) | 
 | Sodium Sulfite Solution | [For DO probe calibration](https://www.onsetcomp.com/products/accessories/u26-cal-sol/) |
 | YSI Probe | [YSI Galvanic DO Sensor](https://www.amazon.com/YSI-Galvanic-DO-Sensor-Instant/dp/B088DRLJCX/ref=sr_1_6?dchild=1&keywords=ysi+do+sensor&qid=1624550720&sr=8-6) | 
 | Bacteria | [FritzZyme Turbo Start 900 Saltwater](https://www.amazon.com/FritzZyme-Turbo-Start-900-Saltwater/dp/B084GPBL98/ref=asc_df_B084GPBL98/?tag=hyprod-20&linkCode=df0&hvadid=416723245886&hvpos=&hvnetw=g&hvrand=12186228031273695160&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002225&hvtargid=pla-909640614890&psc=1&tag=&ref=&adgrpid=96812686551&hvpone=&hvptwo=&hvadid=416723245886&hvpos=&hvnetw=g&hvrand=12186228031273695160&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002225&hvtargid=pla-909640614890) |
-
+| Nitrocycle | [Advanced Cycling Supplement](https://www.algaebarn.com/shop/aquarium-supplies/chemicals-and-additives/nitrocycle/) | 
 
 ### Coral Maintenance ### 
 
@@ -45,6 +54,7 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 | Coral Food | [Polyplab - Reef-Roids](https://www.amazon.com/Polyplab-Reef-Roids-Coral-Faster-Growing/dp/B001EHGDRM/ref=sr_1_3?dchild=1&keywords=reef+roids&qid=1623373043&sr=8-3) |
 | Lugols Iodine | [Lugol's Solution - Advanced Iodine](https://www.bulkreefsupply.com/lugol-s-solution-advanced-iodine-brightwell-aquatics.html?dfw_tracker=43788-209250&utm_term=&utm_campaign=EL+%7C+ACQ_Prospecting_Shopping+%7C+ROAS+%7C+Additives&utm_source=adwords&utm_medium=ppc&hsa_acc=7373341438&hsa_cam=11654373737&hsa_grp=112632155439&hsa_ad=480766840926&hsa_src=g&hsa_tgt=aud-395920103759:pla-309199068700&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw8IaGBhCHARIsAGIRRYoQKTsqDA_Rd8tzUqMe3YQdFsz7UgS_Gvnmran7qSABxz5wob6Y5eUaAkvJEALw_wcB) | 
 | Egg Crate | [OBANGONG Grid Aquarium Crate](https://www.amazon.com/OBANGONG-Isolate-Divider-Bottom-Aquarium/dp/B07DN7PGY9/ref=sr_1_6?dchild=1&keywords=egg+crate&qid=1622209128&sr=8-6) |
+| Coral Dip | [Blue Ocean Corals Coral Rx Concentrate Dip PRO Aquarium Treatment](https://www.amazon.com/Coral-Rx-Concentrate-Aquarium-Treatment/dp/B003VSTZI6/ref=sr_1_4?dchild=1&keywords=coral+rx&qid=1627919034&sr=8-4) |
 
 ### Tools & Cleaning ### 
 
