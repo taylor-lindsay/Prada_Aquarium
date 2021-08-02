@@ -8,8 +8,8 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 | ----------- | ----------- | 
 | Lights      |[AI Hydra 32 HD LED Reef Light](https://www.bulkreefsupply.com/hydra-32-hd-led-reef-light-black-aqua-illumination.html) | 
 | Light Mounts | [Aqua Intelligence Aqi Kit Mount Hydra26/52 Wh](https://www.amazon.com/EXT-Single-Module-Silver-Hanging/dp/B0775RKQFH/ref=pd_di_sccai_2?pd_rd_w=jHBNe&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=V082GN9C33ET3DXWCZKR&pd_rd_r=dc810557-6880-4dff-af5f-df46e20e690f&pd_rd_wg=U9B13&pd_rd_i=B0775RKQFH&psc=1) | 
-
-
+| Ethernet Cable | For Tank Networking | 
+| 
 
 
 ### Water Quality & Maintenence ###
@@ -27,12 +27,21 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 
 | Equipment Title | Description |
 | ----------- | ----------- |  
-| Wire cutters | [For cutting egg crate](https://www.amazon.com/BOENFU-Wire-Cutter-Precision-Anti-Slip/dp/B07C5PM8L4/ref=sr_1_6?dchild=1&keywords=cutting+pliers&qid=1623355612&sr=8-6) | 
 | Ceramic Plugs | [Oceans Wonders Coral Frag Plugs](https://www.amazon.com/Oceans-Wonders-Coral-Plugs-100pc/dp/B00TNMYLZQ/ref=sr_1_5?dchild=1&keywords=coral+plugs&qid=1623355171&sr=8-5) |
 | Gel Super Glue | [Gorilla Super Glue Gel](https://www.amazon.com/Gorilla-105801-Super-1-Pack-Clear/dp/B08QR2XRKD/ref=sxin_12_pa_sp_search_thematic_sspa?cv_ct_cx=gel+super+glue&dchild=1&keywords=gel+super+glue&pd_rd_i=B08QR2XRKD&pd_rd_r=39e0de6c-9a91-4bcf-93a3-36ce7fe337ae&pd_rd_w=aSYOi&pd_rd_wg=i5SrB&pf_rd_p=3b2adfc6-e3ad-467a-9f38-271e811048b0&pf_rd_r=QSQFCMKY6ZGM1W2B82V1&qid=1627914821&sr=1-1-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUktQRE1QUFdBQkRSJmVuY3J5cHRlZElkPUEwODMwNDQ1MjFUS0pRVVhTRzFQUCZlbmNyeXB0ZWRBZElkPUEwOTQxMTM1MUNYNFI5N1VaTkNBUCZ3aWRnZXROYW1lPXNwX3NlYXJjaF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) |
 | Coral Food | [Polyplab - Reef-Roids](https://www.amazon.com/Polyplab-Reef-Roids-Coral-Faster-Growing/dp/B001EHGDRM/ref=sr_1_3?dchild=1&keywords=reef+roids&qid=1623373043&sr=8-3) |
 | Lugols Iodine | [Lugol's Solution - Advanced Iodine](https://www.bulkreefsupply.com/lugol-s-solution-advanced-iodine-brightwell-aquatics.html?dfw_tracker=43788-209250&utm_term=&utm_campaign=EL+%7C+ACQ_Prospecting_Shopping+%7C+ROAS+%7C+Additives&utm_source=adwords&utm_medium=ppc&hsa_acc=7373341438&hsa_cam=11654373737&hsa_grp=112632155439&hsa_ad=480766840926&hsa_src=g&hsa_tgt=aud-395920103759:pla-309199068700&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw8IaGBhCHARIsAGIRRYoQKTsqDA_Rd8tzUqMe3YQdFsz7UgS_Gvnmran7qSABxz5wob6Y5eUaAkvJEALw_wcB) | 
 | Egg Crate | [OBANGONG Grid Aquarium Crate](https://www.amazon.com/OBANGONG-Isolate-Divider-Bottom-Aquarium/dp/B07DN7PGY9/ref=sr_1_6?dchild=1&keywords=egg+crate&qid=1622209128&sr=8-6) |
 
+### Tools & Cleaning ### 
+| Equipment Title | Description |
+| ----------- | ----------- |  
+| Wire cutters | [For cutting egg crate](https://www.amazon.com/BOENFU-Wire-Cutter-Precision-Anti-Slip/dp/B07C5PM8L4/ref=sr_1_6?dchild=1&keywords=cutting+pliers&qid=1623355612&sr=8-6) | 
+| Large Wrench | [Tongue and Groove Pliers](https://www.amazon.com/Channellock-442-Heat-Treated-Reinforcing-Minimizes/dp/B00004SBCV/ref=sr_1_4?dchild=1&keywords=tongue+and+groove+wrench&qid=1614294995&sr=8-4) |
+| Funnel | [Large Funnel](https://www.amazon.com/Wirthco-32832-Funnel-King-Pint/dp/B007RXBU8E/ref=sr_1_3?dchild=1&keywords=funnel+with+hose&qid=1614300372&sr=8-3) |
+| Scrub Brushes | [Libman Scrub Kit](https://www.amazon.com/Libman-Scrub-Brush-Green-White/dp/B07DFGDGVK/ref=sr_1_10?dchild=1&keywords=scrub+brush&qid=1614300708&sr=8-10) |
+| Filter Wrench | [TEKTON 5867 16-Inch Oil Filter Pliers](https://www.amazon.com/TEKTON-5866-12-Inch-Filter-Pliers/dp/B000NPUKG6/ref=sr_1_7?dchild=1&keywords=large%2Bwrench&qid=1614294386&sr=8-7&th=1) |
+| Filter Wrench | [Pentek 150296 SW-3 Wrench for #10 Big Blue Housings](https://www.amazon.com/gp/product/B004VNCEA6/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) | 
+| Isopropyl Alcohol | [90% +](https://www.amazon.com/Amazon-Brand-Antiseptic-Isopropyl-Alcohol/dp/B07CJQFJH2/ref=sr_1_7_sspa?dchild=1&keywords=Isopropyl+alcohol&qid=1614310186&sr=8-7-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFYUEJQQ1hRUDFSUkUmZW5jcnlwdGVkSWQ9QTA1MzI1NzAzQUs4RFQwMENBU1VVJmVuY3J5cHRlZEFkSWQ9QTA2Mzk1MjQ2TFlLNUNLT0I2UjMmd2lkZ2V0TmFtZT1zcF9tdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) |
 
 
