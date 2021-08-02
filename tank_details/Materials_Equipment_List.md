@@ -1,11 +1,11 @@
 ---
-title: "Materials & Equipment List"
-output: html_notebook
+Title: "Materials & Equipment List"
+Output: html_notebook
 ---
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/). 
+
 
 ### Aquaria Equipment ###
 
