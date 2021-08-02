@@ -1,6 +1,7 @@
 # Materials & Equipment List #
 
 Pentair Aquatic Habitats, Glass Tank System Model GH-C2517060-A, Power: 115 VAC
+
 Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/). 
 
 
