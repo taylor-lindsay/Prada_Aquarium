@@ -15,6 +15,10 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 | Mechanical Filter | [Pleated mechanical filter cartridge](https://shop.iwakiaquatic.com/Item.aspx?ItemID=40373) | 
 | Filter Pads | [12x16](https://shop.iwakiaquatic.com/Item.aspx?ItemID=43461) |
 | C Filter | [Carbon Block Filter, 25 Micron, 4.5" X 20"](https://shop.iwakiaquatic.com/Item.aspx?ItemID=46098)|
+| Air Stones | AQ10509 Air stone 1" for 1/4" OD tubing IWAKI | 
+| New Union Ball Valve | AQ-3629-005 1/2" true union ball valve, with threaded parts, IWAKI |
+| Pressure Gauge | AQ10543 Pressure gauge 0-30psi liquid filled, 1/4" NPT rear mount, 2.5" Face |
+| Step Stool | [3-Step Steel Lightweight Step Stool Ladder](https://www.homedepot.com/p/Gorilla-Ladders-3-Step-Steel-Lightweight-Step-Stool-Ladder-225-lbs-Load-Capacity-Type-II-Duty-Rating-GLS-3-2/310833692) |
 
 ### Water Quality & Maintenence ###
 
@@ -26,7 +30,8 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 | Basic water quality Test Kit | [API Aquarium Test Kit](https://www.amazon.com/API-SALTWATER-550-Test-Saltwater-Aquarium/dp/B001EUE808/ref=sr_1_8?dchild=1&keywords=api+water+quality+test+kit&qid=1627915313&sr=8-8) |
 | N & Bacteria | [Rapid Cycle Aquarium Cycle Kit 4 oz (100 gallon system)](https://www.iwakiaquatic.com/)
 | Salt | [Reef Crystals](https://shop.iwakiaquatic.com/Item.aspx?ItemID=45621) | 
-| Dissolved Oxygen YSI | []
+| Dissolved Oxygen YSI | [] |
+| Sodium Sulfite Solution | [For DO probe calibration](https://www.onsetcomp.com/products/accessories/u26-cal-sol/) |
 | YSI Probe | [YSI Galvanic DO Sensor](https://www.amazon.com/YSI-Galvanic-DO-Sensor-Instant/dp/B088DRLJCX/ref=sr_1_6?dchild=1&keywords=ysi+do+sensor&qid=1624550720&sr=8-6) | 
 | Bacteria | [FritzZyme Turbo Start 900 Saltwater](https://www.amazon.com/FritzZyme-Turbo-Start-900-Saltwater/dp/B084GPBL98/ref=asc_df_B084GPBL98/?tag=hyprod-20&linkCode=df0&hvadid=416723245886&hvpos=&hvnetw=g&hvrand=12186228031273695160&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002225&hvtargid=pla-909640614890&psc=1&tag=&ref=&adgrpid=96812686551&hvpone=&hvptwo=&hvadid=416723245886&hvpos=&hvnetw=g&hvrand=12186228031273695160&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002225&hvtargid=pla-909640614890) |
 
@@ -58,10 +63,13 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 | Tooth Brushes | for cleaning | 
 | Magic Erasers | [50 Pcs/lot Magic Sponge Eraser Multi-Functional Melamine Foam Cleaner](https://www.amazon.com/Dr-WOW-Multi-Functional-Melamine-Cleaner-100x70x30mm/dp/B076Q7JHR2/ref=sr_1_7?dchild=1&keywords=magic+eraser&qid=1623355699&sr=8-7) | 
 | Scissors | |
-| Hand Soap | Scent-free |
-| Zip Ties | Many sizes | 
+| Hand Soap | [Scent-free](https://www.amazon.com/Amazon-Brand-Solimo-Gentle-Triclosan-free/dp/B07RFNNXBR/ref=sr_1_3?dchild=1&keywords=aquarium+hand+soap&qid=1614295381&sr=8-3) |
+| Zip Ties | [Many sizes](https://www.google.com/url?q=https://www.homedepot.com/p/HDX-UV-Resist-Zip-Tie-Set-Black-650-Pack-FT-BLK-DIY-650/307799396&sa=D&source=editors&ust=1627920718868000&usg=AOvVaw1wOImqP5U_t0XgyR2ToHNl) | 
 | Tape | [Electrical tape for probes](https://www.homedepot.com/p/Commercial-Electric-1-2-in-x-20-ft-Electric-Tape-Multi-Color-6-Pack-30005336/206874157) | 
 | Siphon | [AQUANEAT Aquarium Siphon](https://www.amazon.com/AQUANEAT-Siphon-Aquarium-Changer-Cleaner/dp/B08CRSHB8J/ref=sr_1_2_sspa?dchild=1&keywords=aquarium+siphon&qid=1624021489&s=pet-supplies&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOE1YMUg3NFQwTlo1JmVuY3J5cHRlZElkPUEwNDI3MzAzMkVJWVNKTDJUMFI4VyZlbmNyeXB0ZWRBZElkPUEwMTg4Mzk1MjRMWUtSUFk3U1FPQiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) |
+| Sharpies | |
+| Garbage Bags | | 
+
 
 
 
