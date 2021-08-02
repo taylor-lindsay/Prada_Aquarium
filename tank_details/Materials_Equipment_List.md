@@ -9,8 +9,12 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 | Lights      |[AI Hydra 32 HD LED Reef Light](https://www.bulkreefsupply.com/hydra-32-hd-led-reef-light-black-aqua-illumination.html) | 
 | Light Mounts | [Aqua Intelligence Aqi Kit Mount Hydra26/52 Wh](https://www.amazon.com/EXT-Single-Module-Silver-Hanging/dp/B0775RKQFH/ref=pd_di_sccai_2?pd_rd_w=jHBNe&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=V082GN9C33ET3DXWCZKR&pd_rd_r=dc810557-6880-4dff-af5f-df46e20e690f&pd_rd_wg=U9B13&pd_rd_i=B0775RKQFH&psc=1) | 
 | Ethernet Cable | For Tank Networking | 
-| 
-
+| Conductivity Solution | [53ms Pinpoint Salinity Fluid for Refractometers and Salinity Monitors](https://www.amazon.com/Pinpoint-Salinity-Fluid-Refractometers-Monitors/dp/B07G9RL4PK/ref=sr_1_9?dchild=1&keywords=pinpoint+salinity+calibration+fluid+53ms&qid=1614300540&sr=8-9) |
+| Buffer Solution | [pH 10](https://shop.iwakiaquatic.com/Item.aspx?ItemID=1788) | 
+| Buffer Solution | [pH 7](https://shop.iwakiaquatic.com/Item.aspx?ItemID=1787) | 
+| Mechanical Filter | [Pleated mechanical filter cartridge](https://shop.iwakiaquatic.com/Item.aspx?ItemID=40373) | 
+| Filter Pads | [12x16](https://shop.iwakiaquatic.com/Item.aspx?ItemID=43461) |
+| C Filter | [Carbon Block Filter, 25 Micron, 4.5" X 20"](https://shop.iwakiaquatic.com/Item.aspx?ItemID=46098)|
 
 ### Water Quality & Maintenence ###
 
@@ -20,7 +24,11 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 | YSI Case | [Nanuk 910 Waterproof Hard Case](https://www.amazon.com/Nanuk-Waterproof-Hard-Case-Empty/dp/B00BP8UWRM/ref=sxin_9_pa_sp_search_thematic_sspa?cv_ct_cx=waterproof+hard+case&dchild=1&keywords=waterpoof+hard+case&pd_rd_i=B00BP8UWRM&pd_rd_r=4596fcc3-0681-4f03-b356-f19135c0e291&pd_rd_w=cvE6v&pd_rd_wg=H5zwo&pf_rd_p=9d5c7dec-ad7e-424f-9792-7751bf0f49a3&pf_rd_r=SFH85VT62EFMPP2ZJ9ZE&qid=1622749861&sr=1-1-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzS0NBRUpOWlg2SzkwJmVuY3J5cHRlZElkPUEwNTcxMzMyMUhLQk82QVkxSTc5RiZlbmNyeXB0ZWRBZElkPUEwMjA4ODc4MVBEQkVXT0xITUJYWSZ3aWRnZXROYW1lPXNwX3NlYXJjaF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) |
 | Ca, Hardness, P test kit | [API REEF MASTER TEST KIT Reef Aquarium Water Test Kit](https://www.amazon.com/API-MASTER-Aquarium-Water-1-Count/dp/B001D6Z7QW/ref=sr_1_15?dchild=1&keywords=api+water+quality+test+kit&qid=1623354973&sr=8-15) |
 | Basic water quality Test Kit | [API Aquarium Test Kit](https://www.amazon.com/API-SALTWATER-550-Test-Saltwater-Aquarium/dp/B001EUE808/ref=sr_1_8?dchild=1&keywords=api+water+quality+test+kit&qid=1627915313&sr=8-8) |
+| N & Bacteria | [Rapid Cycle Aquarium Cycle Kit 4 oz (100 gallon system)](https://www.iwakiaquatic.com/)
+| Salt | [Reef Crystals](https://shop.iwakiaquatic.com/Item.aspx?ItemID=45621) | 
 | Dissolved Oxygen YSI | []
+| YSI Probe | [YSI Galvanic DO Sensor](https://www.amazon.com/YSI-Galvanic-DO-Sensor-Instant/dp/B088DRLJCX/ref=sr_1_6?dchild=1&keywords=ysi+do+sensor&qid=1624550720&sr=8-6) | 
+| Bacteria | [FritzZyme Turbo Start 900 Saltwater](https://www.amazon.com/FritzZyme-Turbo-Start-900-Saltwater/dp/B084GPBL98/ref=asc_df_B084GPBL98/?tag=hyprod-20&linkCode=df0&hvadid=416723245886&hvpos=&hvnetw=g&hvrand=12186228031273695160&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002225&hvtargid=pla-909640614890&psc=1&tag=&ref=&adgrpid=96812686551&hvpone=&hvptwo=&hvadid=416723245886&hvpos=&hvnetw=g&hvrand=12186228031273695160&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002225&hvtargid=pla-909640614890) |
 
 
 ### Coral Maintenance ### 
@@ -34,14 +42,29 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 | Egg Crate | [OBANGONG Grid Aquarium Crate](https://www.amazon.com/OBANGONG-Isolate-Divider-Bottom-Aquarium/dp/B07DN7PGY9/ref=sr_1_6?dchild=1&keywords=egg+crate&qid=1622209128&sr=8-6) |
 
 ### Tools & Cleaning ### 
+
 | Equipment Title | Description |
 | ----------- | ----------- |  
 | Wire cutters | [For cutting egg crate](https://www.amazon.com/BOENFU-Wire-Cutter-Precision-Anti-Slip/dp/B07C5PM8L4/ref=sr_1_6?dchild=1&keywords=cutting+pliers&qid=1623355612&sr=8-6) | 
 | Large Wrench | [Tongue and Groove Pliers](https://www.amazon.com/Channellock-442-Heat-Treated-Reinforcing-Minimizes/dp/B00004SBCV/ref=sr_1_4?dchild=1&keywords=tongue+and+groove+wrench&qid=1614294995&sr=8-4) |
-| Funnel | [Large Funnel](https://www.amazon.com/Wirthco-32832-Funnel-King-Pint/dp/B007RXBU8E/ref=sr_1_3?dchild=1&keywords=funnel+with+hose&qid=1614300372&sr=8-3) |
+| Funnel | |
 | Scrub Brushes | [Libman Scrub Kit](https://www.amazon.com/Libman-Scrub-Brush-Green-White/dp/B07DFGDGVK/ref=sr_1_10?dchild=1&keywords=scrub+brush&qid=1614300708&sr=8-10) |
 | Filter Wrench | [TEKTON 5867 16-Inch Oil Filter Pliers](https://www.amazon.com/TEKTON-5866-12-Inch-Filter-Pliers/dp/B000NPUKG6/ref=sr_1_7?dchild=1&keywords=large%2Bwrench&qid=1614294386&sr=8-7&th=1) |
 | Filter Wrench | [Pentek 150296 SW-3 Wrench for #10 Big Blue Housings](https://www.amazon.com/gp/product/B004VNCEA6/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) | 
 | Isopropyl Alcohol | [90% +](https://www.amazon.com/Amazon-Brand-Antiseptic-Isopropyl-Alcohol/dp/B07CJQFJH2/ref=sr_1_7_sspa?dchild=1&keywords=Isopropyl+alcohol&qid=1614310186&sr=8-7-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFYUEJQQ1hRUDFSUkUmZW5jcnlwdGVkSWQ9QTA1MzI1NzAzQUs4RFQwMENBU1VVJmVuY3J5cHRlZEFkSWQ9QTA2Mzk1MjQ2TFlLNUNLT0I2UjMmd2lkZ2V0TmFtZT1zcF9tdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) |
+| Towels | [Machine washable, to reduce waste from spills](https://www.amazon.com/Simpli-Magic-79250-Gray-Hand-Towels/dp/B082L674ZP/ref=sr_1_5?crid=2PCNHIPLVKOMI&dchild=1&keywords=hand+towels+bulk&qid=1611952467&sprefix=hand+towels%2Caps%2C421&sr=8-5)|
+| Buckets | [5 Gal buckets](https://www.homedepot.com/p/The-Home-Depot-5-Gal-Homer-Bucket-6-Pack-05GLHD2/204356396) | 
+| Lids | [Bucket Lids](https://www.homedepot.com/p/Leaktite-White-Reusable-Easy-Off-Lid-for-5-Gal-Pail-Pack-of-3-209325/203925466) | 
+| Tooth Brushes | for cleaning | 
+| Magic Erasers | [50 Pcs/lot Magic Sponge Eraser Multi-Functional Melamine Foam Cleaner](https://www.amazon.com/Dr-WOW-Multi-Functional-Melamine-Cleaner-100x70x30mm/dp/B076Q7JHR2/ref=sr_1_7?dchild=1&keywords=magic+eraser&qid=1623355699&sr=8-7) | 
+| Scissors | |
+| Hand Soap | Scent-free |
+| Zip Ties | Many sizes | 
+| Tape | [Electrical tape for probes](https://www.homedepot.com/p/Commercial-Electric-1-2-in-x-20-ft-Electric-Tape-Multi-Color-6-Pack-30005336/206874157) | 
+| Siphon | [AQUANEAT Aquarium Siphon](https://www.amazon.com/AQUANEAT-Siphon-Aquarium-Changer-Cleaner/dp/B08CRSHB8J/ref=sr_1_2_sspa?dchild=1&keywords=aquarium+siphon&qid=1624021489&s=pet-supplies&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOE1YMUg3NFQwTlo1JmVuY3J5cHRlZElkPUEwNDI3MzAzMkVJWVNKTDJUMFI4VyZlbmNyeXB0ZWRBZElkPUEwMTg4Mzk1MjRMWUtSUFk3U1FPQiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) |
+
+
+
+
 
 
