@@ -1,14 +1,6 @@
 # Materials & Equipment List #
 
-
----
-Title: "Materials & Equipment List"
-Output: html_notebook
----
-
-
 Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/). 
-
 
 ### Aquaria Equipment ###
 
