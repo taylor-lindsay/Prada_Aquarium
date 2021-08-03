@@ -45,6 +45,7 @@ Aquaria system installed by [Iwaki Aquatics](https://www.iwakiaquatic.com/).
 | YSI Probe | [YSI Galvanic DO Sensor](https://www.amazon.com/YSI-Galvanic-DO-Sensor-Instant/dp/B088DRLJCX/ref=sr_1_6?dchild=1&keywords=ysi+do+sensor&qid=1624550720&sr=8-6) | 
 | Bacteria | [FritzZyme Turbo Start 900 Saltwater](https://www.amazon.com/FritzZyme-Turbo-Start-900-Saltwater/dp/B084GPBL98/ref=asc_df_B084GPBL98/?tag=hyprod-20&linkCode=df0&hvadid=416723245886&hvpos=&hvnetw=g&hvrand=12186228031273695160&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002225&hvtargid=pla-909640614890&psc=1&tag=&ref=&adgrpid=96812686551&hvpone=&hvptwo=&hvadid=416723245886&hvpos=&hvnetw=g&hvrand=12186228031273695160&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002225&hvtargid=pla-909640614890) |
 | Nitrocycle | [Advanced Cycling Supplement](https://www.algaebarn.com/shop/aquarium-supplies/chemicals-and-additives/nitrocycle/) | 
+| Bio brick | [Xport-NO3 Biological Filtration Dimpled Brick - Brightwell Aquatics](https://www.bulkreefsupply.com/xport-no3-biological-filtration-dimpled-brick-brightwell.html?utm_term=brightwell%20xport%20bio%20brick&utm_campaign=Search%3EBrand%3EBrightwell%3EExact&utm_source=adwords&utm_medium=ppc&hsa_acc=7373341438&hsa_cam=1035682998&hsa_grp=52615130764&hsa_ad=525000071880&hsa_src=g&hsa_tgt=kwd-404026658635&hsa_kw=brightwell%20xport%20bio%20brick&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw0qOIBhBhEiwAyvVcf2MPdpGK7YuxHFl1i2N2W-mINJYD0JYcjZ92U0ca-lAy_ayv0wWgZhoCCb4QAvD_BwE) |
 
 ### Coral Maintenance ### 
 
