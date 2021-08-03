@@ -6,7 +6,7 @@
 Table of Contents:
 
 - Tank Details
-  - Materials & Equipment List 
+  - [Materials & Equipment List](https://github.com/taylor-lindsay/Prada_Aquarium/blob/master/tank_details/Materials_Equipment_List.md)
   - Tank computer manual
   - Manual 
   - Manual 
