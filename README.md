@@ -1,7 +1,8 @@
 ## Prada Aquarium System 
 
-*Written by: Taylor Lindsay and Willow Dunster*
-*Last updated: 6/24/21*
+*Written by: Taylor Lindsay*
+
+*Last updated: 8/3/21*
 
 Table of Contents:
 
@@ -16,5 +17,5 @@ Table of Contents:
   - [YSI DO Handbook](https://github.com/taylor-lindsay/Prada_Aquarium/blob/master/water_quality_maintenance/YSI_DO_Handbook.pdf)
   - [Daily Tank Checklist](https://github.com/taylor-lindsay/Prada_Aquarium/blob/master/water_quality_maintenance/Daily_Tank_Checklist3.xlsx)
 - Coral Information 
-  - Species List w/ details 
+  - [Species List](https://github.com/taylor-lindsay/Prada_Aquarium/blob/master/coral_info/coral_info.md)
 
